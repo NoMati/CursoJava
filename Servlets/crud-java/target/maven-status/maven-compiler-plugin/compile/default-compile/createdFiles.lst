@@ -1,0 +1,6 @@
+com\crudjava\crud\Persona.class
+com\crudjava\crud\PersonaRepositorio.class
+com\crudjava\crud\PersonaService.class
+com\crudjava\crud\PersonaServiceImp.class
+com\crudjava\crud\Controlador.class
+com\crudjava\crud\CrudApplication.class
